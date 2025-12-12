@@ -1,0 +1,16 @@
+{
+  "name": "botdjs",
+  "version": "1.0.0",
+  "main": "src/core/index.js",
+  "scripts": {
+  "start": "bun src/core/index.js"
+   },
+  "keywords": [],
+  "author": "dorpew",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0"
+  },
+  "description": ""
+}
