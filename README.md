@@ -9,8 +9,15 @@ Ideal para iniciantes!
 # Como usar
 
 1. Clone o repositório:
-```git clone git@github.com:dorpew/example-bot.git```
+```bash
+git clone git@github.com:dorpew/example-bot.git
+```
 3. Instale as dependências
-4. Configure o arquivo `.env` com o token do bot e o id da sua conta, no `src/core/index.js` mude o prefixo para o do seu bot.
-5. Inicie o bot com:
-`bun run start`
+```bash
+bun install
+```
+5. Configure o arquivo `.env` com o token do bot e o id da sua conta, no `src/core/index.js` mude o prefixo para o do seu bot.
+6. Inicie o bot com:
+```bash
+bun run start
+```
