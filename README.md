@@ -9,8 +9,15 @@ Ideal para iniciantes!
 # Como usar
 
 1. Clone o repositório:
-```git clone git@github.com:dorpew/example-bot.git```
-3. Instale as dependências
+```bash
+git clone git@github.com:dorpew/example-bot.git
+```
+3. Instale as dependências:
+```bash
+npm install
+```
 4. Configure o arquivo `.env` com o token do bot e o id da sua conta, no `src/core/index.js` mude o prefixo para o do seu bot.
 5. Inicie o bot com:
-`npm run start`
+```bash
+npm run start
+```
