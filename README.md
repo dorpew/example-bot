@@ -21,3 +21,4 @@ bun install
 ```bash
 bun run start
 ```
+LICENSE MIT
